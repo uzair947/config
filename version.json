@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.0.0",
-  "minRequiredVersion": "1.0.0",
+  "2.0.0",
   "forceUpdate": true,
   "downloadUrl": "https://github.com/uzair947/config/releases",
   "changelog": "Initial public production launch. Added localized NUST, UET, and official HEC conversion scales."
